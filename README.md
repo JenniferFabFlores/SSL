@@ -1,6 +1,6 @@
-# Sintaxis-y-Semantica-de-los-Lenguajes
-• K2052
-• 2024
-• Legajo: 177676-9
-• Apellido: Flores
-• Nombre: Jennifer
+## Sintaxis y Semantica de los Lenguajes
+
+- **Nombre**: Jennifer Flores
+- **Legajo**: 177676-9
+- **Curso**: K2052
+- **Año**: 2024
